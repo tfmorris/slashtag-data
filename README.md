@@ -10,7 +10,7 @@ the Open Directory Project.
 For more details, please see:
 
 * http://help.blekko.com/index.php/what-is-a-slashtag/
-* http://blog.blekko.com/2013/01/14/cracking-the-search-category-problem/
+* https://web.archive.org/web/20150315094003/http://blog.blekko.com/2013/01/14/cracking-the-search-category-problem/
 
 We generate the categories in blekko and izik's search results based
 on this human curation data, augmented by machine-learning, and then
